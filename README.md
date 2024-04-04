@@ -11,20 +11,20 @@
 Welcome to the repository of laughable MATLAB code for your labs! Here, we've managed to turn the mundane world of lab assignments into a comedy show. Brace yourself for code that not only runs your simulations but also tickles your funny bone.
 
 ## Contents:
-- **Lab1:** _"The Adventures of Sinusoidal Signals"_
-  - *Description:* Watch as sinusoids dance around like they've had one too many cups of coffee.
-  - *Highlights:* Witness sinusoids doing the electric slide and the Macarena.
-  ![Sinusoidal Signals](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
+- **Lab1:** _"Generation of Rayleigh and Rician Fading Channels using MATLAB"_
+  - *Description:* Watch as Rayleigh and Rician Fading Channels appear and disappear like mischievous ghosts!
+  - *Highlights:* Experience the drama of fading channels, where signals vanish and reappear at will.
+  ![Rayleigh and Rician Fading](https://giphy.com/gifs/color-colour-FkUyGd7FDh1gk)
   
-- **Lab2:** _"Matrices Gone Wild"_
-  - *Description:* Matrix operations that make even Neo from *The Matrix* scratch his head.
-  - *Highlights:* Matrix multiplications, now with added drama and suspense.
-  ![Matrices Gone Wild](https://media.giphy.com/media/26xBLwkT3UZ9R9KjO/giphy.gif)
+- **Lab2:** _"BPSK Modulator and Demodulator. MATLAB"_
+  - *Description:* Dive into the world of Binary Phase Shift Keying (BPSK) where 0s and 1s party like there's no tomorrow!
+  - *Highlights:* Witness the thrill of modulation and demodulation, where bits dance to the rhythm of phase shifts.
+  ![BPSK Mod-Demod](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFlOHphOXJ2cHF6eGsxN3VpOXBsNzhvNndobmZ3Y3R6MWF5d2Z0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLeH2XuS0TykzQ7F07/giphy.gif)
 
-- **Lab3:** _"The Magnificent FFT Circus"_
-  - *Description:* Fast Fourier Transform like you've never seen before. Prepare to be amazed!
-  - *Highlights:* FFT acrobatics, where frequencies jump through hoops of math.
-  ![FFT Circus](https://media.giphy.com/media/26gYBx8gfCfA1oGWk/giphy.gif)
+- **Lab3:** _"8-PSK Mod-Demod and find the BER over AWGN channel. MATLAB"_
+  - *Description:* Explore the realm of 8-Phase Shift Keying (8-PSK) and unravel the mysteries of Bit Error Rate (BER) over Additive White Gaussian Noise (AWGN) channel.
+  - *Highlights:* Calculate the BER while navigating through the snowy landscape of AWGN, where bits frolic and stumble in the noise.
+  ![8-PSK Mod-Demod](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRieGI1Y2FtdHR0ZTk5ODBjYnBtMGF2dmRjMG9vMnV5MXluZTVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fC1vS7LxlF0HgrJJk/giphy-downsized-large.gif)
 
 ## How to Use:
 1. Clone this repository to your local machine.
