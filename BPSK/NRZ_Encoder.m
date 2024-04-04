@@ -1,8 +1,8 @@
 function [time,output,Fs]=NRZ_Encoder(input,Rb,amplitude,style)
-Fs=16*Rb; %Sampling frequency ,
+Fs=16*Rb;  ,
 oversamplingfactor= 32;
-Ts=1/Fs; % Sampling Period
-Tb=1/Rb; % Bit period
+Ts=1/Fs; 
+Tb=1/Rb; 
 output=[];
 switch lower(style)
 case {'manchester'}

@@ -1,18 +1,16 @@
-N=100000; %Number of Samples
-sigma=1; %Variance of underlying Gaussian Variables
-s=[0 1 2 4]; %Non-Centrality Parameter
+N=100000; 
+sigma=1; 
+s=[0 1 2 4]; 
 plotStyle={'b-','r-','k-','g-'};
-%Simulating the PDF from two Gaussian Random Variables
 for i = 1: length(s)
-X = s(i) + sigma.*randn(1,N); %Gaussian RV with mean=s and given sigma
-Y = 0 + sigma.*randn(1,N); %Gaussian RV with mean=0 and same sigma as Y
+X = s(i) + sigma.*randn(1,N); 
+Y = 0 + sigma.*randn(1,N); 
 Z=X+1i*Y;
-[val,bin]=hist(abs(Z),1000); % pdf of generated Raleigh Fading samples
-plot(bin,val/trapz(bin,val),plotStyle{i}); %Normalizing the PDF to match theoretical result
-%Trapz function gives the total area under the PDF curve. It is used as the normalization factor
+[val,bin]=hist(abs(Z),1000); 
+plot(bin,val/trapz(bin,val),plotStyle{i}); 
+
 hold on;
 end
-%Theoretical PDF computation
 for i=1:length(s)
 x=s(i);
 m1=sqrt(x);
