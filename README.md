@@ -8,12 +8,20 @@
 
 ## Notes:
 - **Remember kids:** Error in FSK is the least, QPSK has the highest error. Keep your bits straight, and your errors crooked!
-- **Also Remember:** 
-  ---While utilizing 16QAM and 16PSK over a mobile broadcasting terminal is technically feasible, it requires careful consideration of various factors including          bandwidth efficiency, complexity, robustness, compatibility, and power efficiency
-  ---6QAM typically offers higher spectral efficiency compared to 16PSK because it encodes both amplitude and phase information.
-  ---16PSK may have a slight advantage in terms of robustness against noise and interference compared to 16QAM.
-  ---16PSK is generally simpler to implement compared to 16QAM.
+- **Also Remember:**
+- 
+  - While utilizing 16QAM and 16PSK over a mobile broadcasting terminal is technically feasible, it requires careful consideration of various factors including          bandwidth efficiency, complexity, robustness, compatibility, and power efficiency
+
+  - 6QAM typically offers higher spectral efficiency compared to 16PSK because it encodes both amplitude and phase information.
+  
+  - 16PSK may have a slight advantage in terms of robustness against noise and interference compared to 16QAM.
+  
+  - 16PSK is generally simpler to implement compared to 16QAM.
+  
 **In summary, neither 16QAM nor 16PSK is universally "better" than the other; the choice depends on the specific requirements, constraints, and characteristics of the communication system. If maximizing spectral efficiency and data throughput is the primary goal, 16QAM may be preferred. However, if simplicity, robustness, or compatibility are more important considerations, 16PSK may be a better choice.**
+
+**AND ALSO BPSK IS NOT BIPOLAR PHASE SHIFT KEYING BUT BINARY BINARYYY.**
+
 
 
 
