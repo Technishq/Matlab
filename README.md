@@ -2,7 +2,9 @@
 
 **README.md**
 
-# Welcome Welcome!
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHozczVxY3N2MGpzYmY2M3kxZXJ6bWNocTl3aHJqYjY1ejJqdXJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnnUZxcHsbBN6/giphy.gif)
+
+# Welcome Welcome! 
 
 ## Notes:
 - **Remember kids:** Error in FSK is the least, QPSK has the highest error. Keep your bits straight, and your errors crooked!
@@ -38,5 +40,7 @@ Welcome to the repository of laughable MATLAB code for your labs! Here, we've ma
 
 ## Disclaimer:
 The code provided here is primarily for entertainment/education purposes. While we strive for humor, we can't guarantee that your professor will share our sense of comedy. Use at your own risk!
+
+![Bye]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHozczVxY3N2MGpzYmY2M3kxZXJ6bWNocTl3aHJqYjY1ejJqdXJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnnUZxcHsbBN6/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9mdHAwZ2hhOW5yNm93azkzZmo5bWc5aXNsdGFyN2hkcjAyNGxzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sn5NzZ2lnR9E4/giphy.gif))
 
 Remember, in the world of coding, laughter is the best debug tool!
